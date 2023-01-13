@@ -9,7 +9,11 @@ To get started with this project, follow these steps:
   git clone https://github.com/abrar-bajwa/Vehicle-Node.js-API-mongoDB
 ```
 2) Open the solution folder in Visual Studio
-3) run this command in vs code terminal.<br>
+3) Run this command in terminal to install required packages.
+```cmd
+  npm i
+``` 
+4) Run this command in vs code terminal.<br>
 ```cmd
   npm start
 ```
