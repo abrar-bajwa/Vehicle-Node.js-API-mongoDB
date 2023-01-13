@@ -26,23 +26,23 @@ To get started with this project, follow these steps:
 ```cmd
   npm start
 ```
-# API Reference
+ API Reference
 GET all Vehicles
 ```cmd
     GET /
 ```
 
-# POST all vehicles
+ POST all vehicles
 ```cmd
     GET /newform
     POST /save
 ```
-# Update all vehicles
+ Update all vehicles
 ```cmd
     GET /edit/:id
     POST /update/:id
 ```
-# Delete all vehicles
+ Delete all vehicles
 ```cmd
     GET /delete/:id
 ```
